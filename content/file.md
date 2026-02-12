@@ -1,5 +1,5 @@
 Title: Prueba de Despliegue Definitiva
-Date: 2026-02-11 10:00
+Date: 2024-01-01 10:00
 Category: Pruebas
 Slug: prueba-despliegue-definitiva
 Summary: Este post tiene fecha de ayer para asegurar que GitHub no lo oculte por la zona horaria.
